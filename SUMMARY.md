@@ -2,4 +2,4 @@
 
 ## GitBook
 
-* [0주차](/week0/GITTEST.md)
+* [0주차](/week0/week0.md)
