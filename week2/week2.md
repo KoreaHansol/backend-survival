@@ -1,5 +1,3 @@
-* 2주차
-
 - API(Application Programming Interface)  
 - 정보은닉(Information Hiding)과 캡슐화(Encapsulation)  
     - 그리고 이 둘의 차이  
