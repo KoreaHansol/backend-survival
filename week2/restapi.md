@@ -1,4 +1,4 @@
-- API(Application Programming Interface)  
+# - API(Application Programming Interface)  
 API란 정의 및 프로토콜 집합을 사용하여 두 소프트웨어 구성 요소가 서로 통신할 수 있게 하는 메커니즘이다.  
 예를 들어 데이터를 제공하는 서버가 있을때 그 서버의 API 즉 다리를 이용하여 데이터를 얻을 수 있다.  
 프로토콜 집합을 사용한다고 했기 때문에 작동하는 방식이 여러개가 될 수도 있을 것이다.  
@@ -24,9 +24,9 @@ SOAP API, RPC API, Websocket API, REST API 등이 있다고 한다.
     - 서버의 응답은 일반 데이터  
 
 
-- 정보은닉(Information Hiding)과 캡슐화(Encapsulation)  
+# - 정보은닉(Information Hiding)과 캡슐화(Encapsulation)  
     - 정보 은닉은 
     - 차이점  
 
-- Architecture와 Architecture Style의 차이  
-- REST(7가지 제약 조건 위주로 정리)  
+# - Architecture와 Architecture Style의 차이  
+# - REST(7가지 제약 조건 위주로 정리)  
